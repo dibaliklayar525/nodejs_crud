@@ -1,0 +1,15 @@
+install 
+node -v
+npm -v
+composer -v
+
+/////////////////
+
+cd backend
+
+creat npm inisialisasi
+npm init -t
+
+///////////////////////
+
+npm i express mysql2 sequelize cors
