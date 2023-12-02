@@ -13,3 +13,10 @@ npm init -t
 ///////////////////////
 
 npm i express mysql2 sequelize cors
+
+/////////////////////
+npm i -g nodemon
+
+///////////////
+download plugin untuk pengujian api
+REST Client
